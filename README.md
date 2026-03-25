@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Política de Privacidad</title>
+  <title> Política de Privacidad </title>
 </head>
 <body>
 <h1>Política de Privacidad</h1>
